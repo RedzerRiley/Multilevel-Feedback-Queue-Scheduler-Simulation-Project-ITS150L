@@ -2,7 +2,7 @@
 
 ## Overview
 
-This project implements a **Multilevel Feedback Queue (MLFQ) Scheduler** with a graphical user interface (GUI) built using PyQt6. The simulator demonstrates how operating systems schedule processes using multiple priority queues with different scheduling algorithms, aging mechanisms, and dynamic priority adjustments.
+This project implements a **Multilevel Feedback Queue (MLFQ) Scheduler** with a graphical user interface (GUI) built using PyQt6. The simulator demonstrates how operating systems schedule processes using multiple priority queues with different scheduling algorithms, aging mechanisms, and dynamic priority adjustments. 
 
 ## Table of Contents
 
@@ -422,7 +422,9 @@ This project is created for educational purposes.
 
 **Operating Systems Course Project**
 
-For questions or contributions, please contact the development team.
+Redzer Riley Monsod
+Roy Garcia 
+Keyro Sibug
 
 ---
 
