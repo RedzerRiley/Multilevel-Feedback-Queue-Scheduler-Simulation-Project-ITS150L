@@ -190,32 +190,22 @@ python gui_app.py
 ### Main Interface
 
 ![Main Interface]
-*[[Screenshot Placeholder: Add main interface with process table and parameters](https://github.com/RedzerRiley/Multilevel-Feedback-Queue-Scheduler-Simulation-Project-ITS150L/blob/a23aff9fa37b0f3c1dc46f7331f2ab578ffc647a/Screenshot%202025-10-25%20211956.png)]*
+![image alt](https://github.com/RedzerRiley/Multilevel-Feedback-Queue-Scheduler-Simulation-Project-ITS150L/blob/a23aff9fa37b0f3c1dc46f7331f2ab578ffc647a/Screenshot%202025-10-25%20211956.png) 
 
 ### Simulation Output
 
 ![Simulation Output]
-*[Screenshot Placeholder: Add simulation output log with color-coded events]*
+![image alt](https://github.com/RedzerRiley/Multilevel-Feedback-Queue-Scheduler-Simulation-Project-ITS150L/blob/f6052e88ac76f3c8483b537e9d3e96d626fc12aa/Screenshot%202025-10-25%20212102.png)
 
 ### Gantt Chart
 
 ![Gantt Chart]
-*[Screenshot Placeholder: Add Gantt chart showing process execution timeline]*
-
+![image alt](https://github.com/RedzerRiley/Multilevel-Feedback-Queue-Scheduler-Simulation-Project-ITS150L/blob/f6052e88ac76f3c8483b537e9d3e96d626fc12aa/Screenshot%202025-10-25%20205146.png)
 ### Process Statistics
 
 ![Statistics Table]
-*[Screenshot Placeholder: Add statistics table with TAT, WT, RT calculations]*
+![image alt](https://github.com/RedzerRiley/Multilevel-Feedback-Queue-Scheduler-Simulation-Project-ITS150L/blob/f6052e88ac76f3c8483b537e9d3e96d626fc12aa/Screenshot%202025-10-25%20212049.png)
 
-### Aging Mechanism
-
-![Aging Example]
-*[Screenshot Placeholder: Add screenshot showing aging promotion events]*
-
-### Preemption in Action
-
-![Preemption]
-*[Screenshot Placeholder: Add screenshot showing SJF preemption event]*
 
 ---
 
