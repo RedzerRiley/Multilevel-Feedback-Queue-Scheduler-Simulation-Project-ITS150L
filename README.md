@@ -190,7 +190,7 @@ python gui_app.py
 ### Main Interface
 
 ![Main Interface]
-*[Screenshot Placeholder: Add main interface with process table and parameters]*
+*[[Screenshot Placeholder: Add main interface with process table and parameters](https://github.com/RedzerRiley/Multilevel-Feedback-Queue-Scheduler-Simulation-Project-ITS150L/blob/a23aff9fa37b0f3c1dc46f7331f2ab578ffc647a/Screenshot%202025-10-25%20211956.png)]*
 
 ### Simulation Output
 
