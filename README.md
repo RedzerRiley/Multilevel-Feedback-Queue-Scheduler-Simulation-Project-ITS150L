@@ -188,23 +188,16 @@ python gui_app.py
 ## Screenshots
 
 ### Main Interface
-
-![Main Interface]
-![image alt](https://github.com/RedzerRiley/Multilevel-Feedback-Queue-Scheduler-Simulation-Project-ITS150L/blob/a23aff9fa37b0f3c1dc46f7331f2ab578ffc647a/Screenshot%202025-10-25%20211956.png) 
+![Main Interface](https://github.com/RedzerRiley/Multilevel-Feedback-Queue-Scheduler-Simulation-Project-ITS150L/blob/a23aff9fa37b0f3c1dc46f7331f2ab578ffc647a/Screenshot%202025-10-25%20211956.png)
 
 ### Simulation Output
-
-![Simulation Output]
-![image alt](https://github.com/RedzerRiley/Multilevel-Feedback-Queue-Scheduler-Simulation-Project-ITS150L/blob/f6052e88ac76f3c8483b537e9d3e96d626fc12aa/Screenshot%202025-10-25%20212102.png)
+![Simulation Output](https://github.com/RedzerRiley/Multilevel-Feedback-Queue-Scheduler-Simulation-Project-ITS150L/blob/f6052e88ac76f3c8483b537e9d3e96d626fc12aa/Screenshot%202025-10-25%20212102.png)
 
 ### Gantt Chart
+![Gantt Chart](https://github.com/RedzerRiley/Multilevel-Feedback-Queue-Scheduler-Simulation-Project-ITS150L/blob/f6052e88ac76f3c8483b537e9d3e96d626fc12aa/Screenshot%202025-10-25%20205146.png)
 
-![Gantt Chart]
-![image alt](https://github.com/RedzerRiley/Multilevel-Feedback-Queue-Scheduler-Simulation-Project-ITS150L/blob/f6052e88ac76f3c8483b537e9d3e96d626fc12aa/Screenshot%202025-10-25%20205146.png)
 ### Process Statistics
-
-![Statistics Table]
-![image alt](https://github.com/RedzerRiley/Multilevel-Feedback-Queue-Scheduler-Simulation-Project-ITS150L/blob/f6052e88ac76f3c8483b537e9d3e96d626fc12aa/Screenshot%202025-10-25%20212049.png)
+![Process Statistics](https://github.com/RedzerRiley/Multilevel-Feedback-Queue-Scheduler-Simulation-Project-ITS150L/blob/f6052e88ac76f3c8483b537e9d3e96d626fc12aa/Screenshot%202025-10-25%20212049.png)
 
 
 ---
