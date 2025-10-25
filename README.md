@@ -422,9 +422,9 @@ This project is created for educational purposes.
 
 **Operating Systems Course Project**
 
-Redzer Riley Monsod
-Roy Garcia 
-Keyro Sibug
+- Redzer Riley Monsod
+- Roy Garcia 
+- Keyro Sibug
 
 ---
 
